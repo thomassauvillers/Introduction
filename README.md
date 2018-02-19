@@ -5,7 +5,8 @@ Introduction to GRM3
 ## Content ##
 This repository is meant to share solutions of exercises provided in the course Geographical research methods 3. 
 Be aware that this folder contains contributions of students which might not have been verified.   
-For questions and remarks: benjamin.campforts@kuleuven.be
+@BCampforts For questions and remarks: benjamin.campforts@kuleuven.be
+
 
 ## How to use this repository ##
 * Fork repository to your own GitHub account
