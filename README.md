@@ -1,6 +1,6 @@
 Introduction
 ===================
-Markup : ![picture alt](https://github.com/BCampforts/Introduction/blob/master/Picture1.png "Repository containing solution to exercises GRM3 2018")
+Markup : ![picture alt](https://github.com/BCampforts/Introduction/blob/master/WildBoars.png "Repository containing solution to exercises GRM3 2018")
 
 Introduction to GRM3 course
 This repository should contain: 
