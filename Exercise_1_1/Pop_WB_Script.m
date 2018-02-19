@@ -1,3 +1,4 @@
+% Analytical solution to exponential population growth
 clearvars
 clc
 close all
