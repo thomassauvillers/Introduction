@@ -7,9 +7,7 @@ This repository should contain:
 
 Exercise	  | Description	|	Status
 ------------- | ------------	| -------------
-Exercise 1.1 |	Analytical solution for wild boar population growth	|  [ ] TODO  [ ] completed 
-Exercise 1.2 |	Numerical solution for wild boar population growth	|  [ ] TODO  [ ] completed 
+Exercise 1.1 |	Analytical solution for wild boar population growth	|  [x] TODO  [ ] completed 
+Exercise 1.2 |	Numerical solution for wild boar population growth	|  [x] TODO  [ ] completed 
 
 
-- [ ] An uncompleted task
-- [x] A completed task
