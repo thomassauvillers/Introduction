@@ -1,6 +1,6 @@
 Introduction to GRM3
 ===================
-![picture alt](https://github.com/BCampforts/Introduction/blob/master/WildBoars.png "Repository containing solutions for the exercises of the course GRM3 2018")
+![picture alt](WildBoars.png)
 
 ## Content ##
 This repository is meant to share solutions of exercises provided in the course Geographical research methods 3. 
